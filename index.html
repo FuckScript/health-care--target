@@ -170,7 +170,7 @@
       {
         pngNames.map((imgName) =>
         {
-          const imgSrc = `/${imgName}.png`;
+          const imgSrc = `./${imgName}.png`;
           map.loadImage(imgSrc, (error, image) =>
           {
             if (error) throw error;
@@ -256,7 +256,7 @@
 
         const div2 = document.createElement("div");
         div2.className = "img";
-        div2.style.backgroundImage = `url(/maker.png)`;
+        div2.style.backgroundImage = `url(./maker.png)`;
         el.appendChild(div2);
         el.pitchAlignment = "viewport";
         const mapMaker = new mapboxgl.Marker(el)
