@@ -411,7 +411,7 @@ var longgang ={
         "layer": "乡镇",
         "adcode": 440307006,
         "center": [114.30817835429717, 22.785855221864413],
-        "nums": 34,
+        "nums": 36,
         "percentage": 0
       }
     },
@@ -525,7 +525,7 @@ var longgang ={
         "layer": "乡镇",
         "adcode": 440307012,
         "center": [114.13958737547968, 22.628170826862938],
-        "nums": 350,
+        "nums": 356,
         "percentage": 0
       }
     },
@@ -927,7 +927,7 @@ var longgang ={
         "layer": "乡镇",
         "adcode": 440307015,
         "center": [114.2135090532556, 22.707655808873547],
-        "nums": 1250,
+        "nums": 1252,
         "percentage": 0
       }
     },
@@ -1204,7 +1204,7 @@ var longgang ={
         "layer": "乡镇",
         "adcode": 440307016,
         "center": [114.22577641010284, 22.76102194071794],
-        "nums": 189,
+        "nums": 190,
         "percentage": 0
       }
     },
@@ -1331,7 +1331,7 @@ var longgang ={
         "layer": "乡镇",
         "adcode": 440307017,
         "center": [114.18869987610847, 22.641514236459],
-        "nums": 185,
+        "nums": 186,
         "percentage": 0
       }
     },
@@ -1459,7 +1459,7 @@ var longgang ={
         "layer": "乡镇",
         "adcode": 440307018,
         "center": [114.09753416859826, 22.633927186753986],
-        "nums": 82,
+        "nums": 83,
         "percentage": 0
       }
     },
@@ -1837,7 +1837,7 @@ var longgang ={
         "layer": "乡镇",
         "adcode": 440307020,
         "center": [114.22680648405161, 22.641056496380667],
-        "nums": 37,
+        "nums": 38,
         "percentage": 0
       }
     }

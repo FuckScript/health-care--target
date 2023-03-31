@@ -405,7 +405,7 @@ var yantian = {
         "layer": "乡镇",
         "adcode": 440308003,
         "center": [114.20972201361585, 22.56358191673575],
-        "nums": 138,
+        "nums": 140,
         "percentage": 0
       }
     },
@@ -471,7 +471,7 @@ var yantian = {
         "layer": "乡镇",
         "adcode": 440308004,
         "center": [114.23097445414616, 22.56942499387857],
-        "nums": 381,
+        "nums": 382,
         "percentage": 0
       }
     },

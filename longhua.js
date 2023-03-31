@@ -161,7 +161,7 @@ var longhua = {
         "layer": "乡镇",
         "adcode": 440309001,
         "center": [114.07386754688464, 22.689616144244823],
-        "nums": 430,
+        "nums": 431,
         "percentage": 0
       }
     },
@@ -305,7 +305,7 @@ var longhua = {
         "layer": "乡镇",
         "adcode": 440309002,
         "center": [114.03034453489343, 22.609866776973448],
-        "nums": 884,
+        "nums": 917,
         "percentage": 0
       }
     },
@@ -442,7 +442,7 @@ var longhua = {
         "layer": "乡镇",
         "adcode": 440309003,
         "center": [114.03526384619218, 22.662473693320905],
-        "nums": 343,
+        "nums": 347,
         "percentage": 0
       }
     },
@@ -794,7 +794,7 @@ var longhua = {
         "layer": "乡镇",
         "adcode": 440309005,
         "center": [114.01458885358727, 22.726127623364903],
-        "nums": 65,
+        "nums": 69,
         "percentage": 0
       }
     },

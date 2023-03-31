@@ -80,7 +80,7 @@ var pingshan = {
         "layer": "乡镇",
         "adcode": 440310001,
         "center": [114.33527695505242, 22.69750253476217],
-        "nums": 322,
+        "nums": 323,
         "percentage": 0
       }
     },
@@ -437,7 +437,7 @@ var pingshan = {
         "layer": "乡镇",
         "adcode": 440310003,
         "center": [114.29101487568447, 22.65922320929062],
-        "nums": 46,
+        "nums": 47,
         "percentage": 0
       }
     },
@@ -709,7 +709,7 @@ var pingshan = {
         "layer": "乡镇",
         "adcode": 440310005,
         "center": [114.39336023832622, 22.763712665508475],
-        "nums": 101,
+        "nums": 102,
         "percentage": 0
       }
     },
@@ -824,7 +824,7 @@ var pingshan = {
         "layer": "乡镇",
         "adcode": 440310006,
         "center": [114.34516983873704, 22.74709752890889],
-        "nums": 132,
+        "nums": 133,
         "percentage": 0
       }
     },

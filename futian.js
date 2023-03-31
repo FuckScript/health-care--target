@@ -91,7 +91,7 @@ var futian = {
       "properties": {
         "name": "园岭街道",
         "layer": "乡镇",
-        "nums": 1511,
+        "nums": 1535,
         "percentage": 0,
         "adcode": 440304002,
         "center": [114.08855652809143, 22.560445603945123]
@@ -194,7 +194,7 @@ var futian = {
       "properties": {
         "name": "福田街道",
         "layer": "乡镇",
-        "nums": 1939,
+        "nums": 1944,
         "percentage": 0,
         "adcode": 440304004,
         "center": [114.07048250499524, 22.524349562861605]
@@ -292,7 +292,7 @@ var futian = {
       "properties": {
         "name": "沙头街道",
         "layer": "乡镇",
-        "nums": 1360,
+        "nums": 1362,
         "percentage": 0,
         "adcode": 440304005,
         "center": [114.01525416464176, 22.52388988532951]
@@ -360,7 +360,7 @@ var futian = {
       "properties": {
         "name": "香蜜湖街道",
         "layer": "乡镇",
-        "nums": 2936,
+        "nums": 2939,
         "percentage": 0,
         "adcode": 440304006,
         "center": [114.00379197938102, 22.55026028437553]
@@ -475,7 +475,7 @@ var futian = {
       "properties": {
         "name": "梅林街道",
         "layer": "乡镇",
-        "nums": 2138,
+        "nums": 2141,
         "percentage": 0,
         "adcode": 440304007,
         "center": [114.0348555000735, 22.575833339041324]
@@ -581,7 +581,7 @@ var futian = {
       "properties": {
         "name": "华富街道",
         "layer": "乡镇",
-        "nums": 1044,
+        "nums": 1045,
         "percentage": 0,
         "adcode": 440304009,
         "center": [114.0778923034668, 22.563545008043867]

@@ -104,7 +104,7 @@ var guangming = {
         "layer": "乡镇",
         "adcode": 440311001,
         "center": [113.95602050580476, 22.75473719914449],
-        "nums": 245,
+        "nums": 353,
         "percentage": 0
       }
     },
@@ -213,7 +213,7 @@ var guangming = {
         "layer": "乡镇",
         "adcode": 440311002,
         "center": [113.90194361026471, 22.804790439958627],
-        "nums": 1,
+        "nums": 22,
         "percentage": 0
       }
     },
@@ -399,7 +399,7 @@ var guangming = {
         "layer": "乡镇",
         "adcode": 440311003,
         "center": [113.95572609715647, 22.79945719176162],
-        "nums": 7,
+        "nums": 37,
         "percentage": 0
       }
     },
@@ -527,7 +527,7 @@ var guangming = {
         "layer": "乡镇",
         "adcode": 440311004,
         "center": [113.93076798790379, 22.734527036966604],
-        "nums": 9,
+        "nums": 26,
         "percentage": 0
       }
     },
@@ -665,7 +665,7 @@ var guangming = {
         "layer": "乡镇",
         "adcode": 440311005,
         "center": [113.89780124028523, 22.712872650200396],
-        "nums": 6,
+        "nums": 9,
         "percentage": 0
       }
     },
@@ -766,7 +766,7 @@ var guangming = {
         "layer": "乡镇",
         "adcode": 440311006,
         "center": [113.88445930480957, 22.769062376712224],
-        "nums": 15,
+        "nums": 34,
         "percentage": 0
       }
     }

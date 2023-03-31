@@ -14,7 +14,7 @@ var shenzhen = {
                     114.148158,
                     22.57487
                 ],
-                "nums":6970,
+                "nums":7006,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -765,7 +765,7 @@ var shenzhen = {
                     114.046594,
                     22.543431
                 ],
-                "nums":21973,
+                "nums":21959,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -1244,7 +1244,7 @@ var shenzhen = {
                     113.940529,
                     22.545588
                 ],
-                "nums":6485,
+                "nums":6483,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -1951,7 +1951,7 @@ var shenzhen = {
                     113.856403,
                     22.676212
                 ],
-                "nums":1415,
+                "nums":1209,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -4050,7 +4050,7 @@ var shenzhen = {
                     114.211811,
                     22.693008
                 ],
-                "nums":3072,
+                "nums":3044,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -7368,7 +7368,7 @@ var shenzhen = {
                     114.275087,
                     22.593619
                 ],
-                "nums":765,
+                "nums":768,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -8027,7 +8027,7 @@ var shenzhen = {
                     114.03474,
                     22.684145
                 ],
-                "nums":1918,
+                "nums":1944,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -9430,7 +9430,7 @@ var shenzhen = {
                     114.361832,
                     22.688325
                 ],
-                "nums":874,
+                "nums":871,
                 "level":"district",
                 "parent":{
                     "adcode":440300
@@ -10689,7 +10689,7 @@ var shenzhen = {
                     113.931243,
                     22.763207
                 ],
-                "nums":283,
+                "nums":481,
                 "level":"district",
                 "parent":{
                     "adcode":440300
